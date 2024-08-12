@@ -1,0 +1,107 @@
+#child-container{
+    background-color: #0d3653;
+    color: white;
+    border-radius: 30px;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+
+}
+
+h1{
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.cartImage{
+    width: 150px;
+}
+
+td{
+    width: 200px;
+    padding-bottom: 30px;
+}
+
+th{
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+table{
+    margin: auto;
+    font-size: 20px;
+}
+
+.quantity{
+    width: 20px;
+    padding: 0px 10px
+}
+
+.operand{
+    width: 35px;
+    font-size: 22px;
+}
+
+.sign{
+    width: 5px;
+    padding-right: 6px;
+}
+
+button:hover{
+    background-color: #0d3653;
+    color: white;
+}
+
+.checkout{
+    width: 130px;
+    height: 40px;
+    margin-left: 120px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+
+.total{
+    color: white;
+    font-size: 20px;
+    margin-left: 790px;
+    font-weight: bold;
+}
+
+form{
+    color: white;
+    margin-left: 110px;
+}
+
+#info{
+    width: 600px;
+    background-color: #0d3653;
+    height: 500px;
+    border-radius: 30px;
+}
+
+.input-field{
+    width: 350px;
+}
+
+.button{
+    width: 140px;
+    margin-left: 110px;
+    border-radius: 10px;
+    height: 35px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    font-weight: bold;
+}
+
+.button:hover{
+    background-color: #0d3653;
+    color: white;
+}
+

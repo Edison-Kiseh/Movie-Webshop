@@ -1,0 +1,41 @@
+h3{
+    text-align: center;
+    margin: 40px 0px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    background-color: #073556;
+    border-radius: 30px;
+    width: 750px;
+    padding: 20px;
+}
+
+.body{
+    background-color: #041d2f;
+    color: white;
+}
+
+.button:hover{
+    color: white;
+    background-color: #073556;
+}
+
+.button{
+    border-radius: 10px;
+    width: 105px;
+    height: 45px;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 700px;
+}
+
+.orderConfirm{
+    margin-left: 600px;
+    margin-right: 20px;
+}
+
+span{
+    margin-right: 20px;
+}

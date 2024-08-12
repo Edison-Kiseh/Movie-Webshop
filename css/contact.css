@@ -1,0 +1,40 @@
+
+.content{
+    background-color: #041d2f;
+    color: white;
+}
+
+.input-field{
+    width: 500px;
+    height: 40px;
+    font-size: medium;
+    padding: 15px;
+}
+
+#textarea{
+    font-size: medium;
+    padding: 10px 15px;
+    width: 500px;
+    height: 140px;
+}
+
+.button{
+    border-radius: 80px;
+    padding: 10px;
+    font-size: 14px;
+    width: 120px;
+}
+
+.button:hover{
+    color: white;
+    background-color: #073556;
+}
+
+h2{
+    font-size: 40px;
+}
+
+h1{
+    padding-bottom: 40px;
+    margin-top: 20px;
+}

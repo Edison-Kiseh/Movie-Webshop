@@ -1,0 +1,133 @@
+body{
+    /*background-color: #1a181b;*/
+    /*background-color: #071e22;*/
+    /*background-color: #1d7874;*/
+    background-color: #030e16;
+}
+
+#movie-container{
+    margin-bottom: 100px;
+}
+
+.content{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.card{
+    border-radius: 17px;
+    background-color: #041d2f;
+    text-decoration: none;
+    
+}
+
+.card img{
+    width: 200px;
+    padding: 7px;
+    border-radius: 17px;
+    height: 300px;
+}
+
+.card p{
+    color: white;
+    text-decoration: none;
+}
+
+
+.image-info{
+    text-align: center;
+    text-decoration: none;
+}
+
+#slideshow{
+    width: 100%;
+    height: 650px;
+}
+
+.top{
+    margin-bottom: 70px;
+}
+
+.shopnow{
+    position: absolute;
+    right: 45%;
+    top: 80%;
+}
+
+.shopnow button{
+    width: 150px;
+    border-radius: 20px;
+    padding: 15px 20px;
+    font-size: 20px;
+}
+
+.shopnow button:hover{
+    background-color: #041d2f;
+    color: white;
+}
+
+/*.shopnow button img{
+    width: 26px;
+    height: 26px;
+}*/
+.message{
+    text-align: center;
+    color: white;
+    margin-bottom: 120px;
+}
+
+.msg1{
+    font-size: 50px;
+}
+
+#movie-container a{
+    text-decoration: none;
+}
+
+p b{
+    font-size: 19px;
+}
+
+.container a{
+    text-decoration: none;
+}
+
+.search-bar{
+    width: 400px;
+    border: 0px;
+    padding-left: 20px;
+    border-radius: 12px;
+}
+
+.search-icon{
+    width: 16px;
+    margin-top: 7px;
+    margin-right: 12px;
+
+}
+
+.search{
+    display: flex;
+    border: 1px solid black;
+    height: 32px;
+    border-radius: 12px 12px 12px 12px;
+    margin-left: 230px;
+}
+
+.sortandsearch{
+    display: flex;
+    margin-bottom: 35px;
+}
+
+.genre{
+    color: white;
+    font-size: 20px;
+    margin-left: 130px;
+    margin-right: 20px;
+}
+
+select{
+    width: 130px;
+}

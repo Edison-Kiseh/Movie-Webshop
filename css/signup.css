@@ -1,0 +1,73 @@
+body{
+    background-image: url('../images/movies/movie-collection.png');
+}
+
+.fields{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.fields input{
+    border: none;
+    padding: 0px 10px;
+    width: 100%;
+    background-color: white;
+}
+
+.content{
+    width: 30%;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+    vertical-align: middle;
+    border: 1px solid black;
+    margin-top: 5%;
+    background-color: white;
+    opacity: 0.9;
+}
+
+.register{
+    width: 80%;
+    margin-left: 35px;
+    border-radius: 10px;
+    padding: 3px 0px;
+    margin-bottom: 10px;
+}
+
+.register:hover{
+    color: white;
+    background-color: #041d2f;
+}
+
+span{
+    margin-left: 10px;
+    font-size: 15px;
+}
+
+h3, h1{
+    text-align: center;
+}
+
+.login{
+    width: 80%;
+    margin-left: 35px;
+    border-radius: 10px;
+    padding: 3px 0px;
+}
+
+.login:hover{
+    color: white;
+    background-color: #041d2f;
+}
+
+span{
+    margin-left: 10px;
+}
+
+.notice{
+    color: red;
+}
+

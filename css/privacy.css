@@ -1,0 +1,18 @@
+#privacy-container{
+    background-color: #0d3653;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 100px;
+}
+
+#privacy-parent-container{
+    background-color: #041d2f;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    padding: 40px 0px;
+}
+
+

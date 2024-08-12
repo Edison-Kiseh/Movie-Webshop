@@ -1,0 +1,60 @@
+h1{
+    text-align: center;
+    padding-top: 20px;
+}
+
+#content{
+    background-color: #0d3653;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 20px;
+}
+
+.container-trui{
+    color: white;
+}
+
+table{
+    margin: auto;
+}
+
+th{
+   width: 150px;
+   border-bottom: 1px solid white;
+   padding-bottom: 10px;
+   padding-top: 15px;
+}
+
+button{
+    width: 100px;
+}
+
+button:hover{
+    background-color: #041d2f;
+    color: white;
+}
+
+.product{
+    width: 200px;
+}
+
+.addProduct{
+    width: 200px;
+    height: 35px;
+    margin-left: 1025px;
+}
+
+.displayText{
+    color: white;
+    background-color: #1773b5;
+    width: 600px;
+    margin: auto;
+    border-radius: 20px;
+    margin-top: 30px;
+    padding: 25px 0px;
+}
+
+.displayText h4{
+    text-align: center;
+}

@@ -1,0 +1,21 @@
+
+
+Error logged: 2023-12-27 20:51:34 - [ 2 ]: preg_match(): Unknown modifier ':' in file C:\xampp\htdocs\PHP-MYSQL\Web shop\html-php\searchMovieList.php on line 18
+Error logged: 2023-12-27 20:51:37 - [ 2 ]: preg_match(): Unknown modifier ':' in file C:\xampp\htdocs\PHP-MYSQL\Web shop\html-php\searchMovieList.php on line 18
+Error logged: 2023-12-27 20:52:37 - [ 2 ]: preg_match(): Unknown modifier '{' in file C:\xampp\htdocs\PHP-MYSQL\Web shop\html-php\searchMovieList.php on line 18
+Error logged: 2023-12-27 20:52:41 - [ 2 ]: preg_match(): Unknown modifier '{' in file C:\xampp\htdocs\PHP-MYSQL\Web shop\html-php\searchMovieList.php on line 18
+Error logged: 2023-12-27 20:53:56 - [ 0 ]: Error: use of special characters in the search field in file C:\xampp\htdocs\PHP-MYSQL\Web shop\html-php\searchMovieList.php on line 19
+Error logged: 2023-12-27 20:53:56 - [ 0 ]: Error: use of special characters in the search field in file C:\xampp\htdocs\PHP-MYSQL\Web shop\html-php\searchMovieList.php on line 19
+Error logged: 2023-12-27 20:54:46 - [ 0 ]: <h2>Error: use of special characters in the search field</h2> in file C:\xampp\htdocs\PHP-MYSQL\Web shop\html-php\searchMovieList.php on line 19
+Error logged: 2023-12-27 20:54:50 - [ 0 ]: <h2>Error: use of special characters in the search field</h2> in file C:\xampp\htdocs\PHP-MYSQL\Web shop\html-php\searchMovieList.php on line 19
+Error logged: 2023-12-27 20:54:50 - [ 0 ]: <h2>Error: use of special characters in the search field</h2> in file C:\xampp\htdocs\PHP-MYSQL\Web shop\html-php\searchMovieList.php on line 19
+Error logged: 2023-12-27 20:55:23 - [ 0 ]: <h2 style="text-align: centre; color: white;">Error: use of special characters in the search field</h2> in file C:\xampp\htdocs\PHP-MYSQL\Web shop\html-php\searchMovieList.php on line 19
+Error logged: 2023-12-27 20:55:48 - [ 0 ]: <h2 style="text-align: centre; color: white;">Error: use of special characters in the search field</h2> in file C:\xampp\htdocs\PHP-MYSQL\Web shop\html-php\searchMovieList.php on line 19
+Error logged: 2023-12-27 20:55:48 - [ 0 ]: <h2 style="text-align: centre; color: white;">Error: use of special characters in the search field</h2> in file C:\xampp\htdocs\PHP-MYSQL\Web shop\html-php\searchMovieList.php on line 19
+Error logged: 2023-12-27 20:56:00 - [ 0 ]: <h2 style="text-align: center; color: white;">Error: use of special characters in the search field</h2> in file C:\xampp\htdocs\PHP-MYSQL\Web shop\html-php\searchMovieList.php on line 19
+Error logged: 2023-12-27 20:56:02 - [ 0 ]: <h2 style="text-align: center; color: white;">Error: use of special characters in the search field</h2> in file C:\xampp\htdocs\PHP-MYSQL\Web shop\html-php\searchMovieList.php on line 19
+Error logged: 2023-12-27 20:56:02 - [ 0 ]: <h2 style="text-align: center; color: white;">Error: use of special characters in the search field</h2> in file C:\xampp\htdocs\PHP-MYSQL\Web shop\html-php\searchMovieList.php on line 19
+Error logged: 2023-12-27 21:12:29 - [ 2 ]: filter_var(): Unknown filter with ID 0 in file C:\xampp\htdocs\PHP-MYSQL\Web shop\html-php\signupProcess.php on line 44
+Error logged: 2023-12-27 21:14:16 - [ 2 ]: filter_var(): Unknown filter with ID 0 in file C:\xampp\htdocs\PHP-MYSQL\Web shop\html-php\loginProcess.php on line 32
+Error logged: 2023-12-27 22:50:41 - [ 0 ]: <h2 style="text-align: center; color: white;">Error: use of special characters in the search field</h2> in file C:\xampp\htdocs\PHP-MYSQL\Web shop\html-php\searchMovieList.php on line 20
+Error logged: 2023-12-27 22:50:41 - [ 0 ]: <h2 style="text-align: center; color: white;">Error: use of special characters in the search field</h2> in file C:\xampp\htdocs\PHP-MYSQL\Web shop\html-php\searchMovieList.php on line 20

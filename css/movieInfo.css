@@ -1,0 +1,127 @@
+
+.contain{
+    display: flex;
+    margin: auto;
+    width: 70%;
+    margin-bottom: 30px;
+    padding: 10px;
+    background-color: #041d2f;
+}
+
+.movie-image{
+    width: 250px;
+    border-radius: 7px;
+}
+
+.details{
+    margin-left: 20px;
+    width: 57%;
+    margin-right: 7px;
+}
+
+.picture{
+    margin: auto;
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 7px;
+    margin-bottom: 80px;
+}
+
+.picture img{
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
+}
+
+.related-movies{
+    text-align: center;
+}
+
+.button{
+    width: 100%;
+    border-radius: 15px;
+    margin-top: 10px;
+    background-color: #d0cfcf;
+    height: 40px;
+    font-size: 19px;
+}
+
+.button:hover{
+    color: white;
+    background-color: #073556;
+}
+
+.amount{
+    text-align: center;
+    font-size: 30px;
+}
+
+.extra-details{
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 5px;
+    width: 200px;
+}
+
+.hd{
+    border: 1px solid white; 
+    height: 25px; 
+    padding: 0px 3px; 
+    border-radius: 3px;
+}
+
+.mini-info{
+    display: flex;
+}
+
+.pg{
+    font-size: medium;
+}
+
+.star{
+    width: 16px; 
+    height: 16px; 
+    margin-top: 4px;
+}
+
+span{
+    font-size: 14px;
+}
+
+.movie-description{
+    font-size: 14px;
+}
+
+.related-movies{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    font-size: 43px
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    color: white;
+    font-size: 18px;
+}
+
+.card{
+    border-radius: 17px;
+    background-color: #041d2f;
+    text-decoration: none;
+}
+
+.card img{
+    width: 220px;
+    padding: 7px;
+    border-radius: 17px;
+    height: 300px;
+}
+
+.image-info{
+    text-align: center;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+
